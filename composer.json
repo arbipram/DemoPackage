@@ -1,0 +1,19 @@
+{
+    "name": "arbipram/demo",
+    "description": "demo packages laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arbipram\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arbi pramana",
+            "email": "arbipram@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
